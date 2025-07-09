@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+# 🧭 Web3 Navigation Portal
 
-## Project info
+A sleek and intuitive **Web3 Navigation Interface** to explore the decentralized ecosystem — designed for researchers, developers, investors, and enthusiasts. Powered by modern UI/UX with "Coming Soon" modules to ensure a scalable roadmap.
 
-**URL**: https://lovable.dev/projects/32ab5540-8126-4672-9c9f-7bd1ed2c4c04
+🌐 **Live Demo**: [web3-nav-lyart.vercel.app](https://web3-nav-lyart.vercel.app)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+- 🔍 **Modular UI Cards** for key sectors in Web3:
+  - Infrastructure
+  - Data Warehousing
+  - Realtime Data
+  - Financial Services & Wallets
+  - Analytics Providers
+  - Gaming
+  - Scaling Solutions
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/32ab5540-8126-4672-9c9f-7bd1ed2c4c04) and start prompting.
+- 🧊 **Glassmorphic Design** with hover effects
+- 🕹️ **Interactive Blocks** (click to expand categories)
+- 🚧 "Coming Soon" sections for future expansion
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🖼️ Screenshots
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![Web3 Nav Screenshot](https://web3-nav-lyart.vercel.app/cover.jpg) <!-- Replace with an actual image if available -->
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📁 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Frontend**: React + TailwindCSS
+- **Hosting**: [Vercel](https://vercel.com/)
+- **Design**: Glassmorphism, responsive layout
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Getting Started
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+To run the project locally:
+
+```bash
+git clone https://github.com/yourusername/web3-nav.git
+cd web3-nav
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Make sure you have Node.js v16+ and npm or yarn installed.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📌 Project Roadmap
 
-**Use GitHub Codespaces**
+ Build responsive card layout
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+ Add glassmorphic design
 
-## What technologies are used for this project?
+ Enable interactive expansion on click
 
-This project is built with:
+ Integrate Web3 APIs for live data
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+ Admin dashboard for content management
 
-## How can I deploy this project?
+ Dark mode support
 
-Simply open [Lovable](https://lovable.dev/projects/32ab5540-8126-4672-9c9f-7bd1ed2c4c04) and click on Share -> Publish.
+🙌 Contributing
 
-## Can I connect a custom domain to my Lovable project?
+Contributions, issues, and feature requests are welcome!
+Feel free to check issues or submit a pull request.
 
-Yes, you can!
+📄 License
+MIT © Daivik 
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+
