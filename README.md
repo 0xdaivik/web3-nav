@@ -25,7 +25,10 @@ A sleek and intuitive **Web3 Navigation Interface** to explore the decentralized
 
 ## 🖼️ Screenshots
 
-![Web3 Nav Screenshot](https://web3-nav-lyart.vercel.app/cover.jpg) <!-- Replace with an actual image if available -->
+<img width="1412" alt="Screenshot 2025-07-09 at 7 22 44 PM" src="https://github.com/user-attachments/assets/2b419df0-6a0a-45c5-8c96-f33d03b221b1" />
+
+
+<!-- Replace with an actual image if available -->
 
 ---
 
